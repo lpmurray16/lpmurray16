@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @lpmurray16
-- 👀 I’m interested in growing my portfolio, and Harry Potter
-- 🌱 I’m currently learning Vue.js and Symfony
-- 💞️ I’m looking to collaborate on something amazing
-- 📫 How to reach me: Visit my website lmurray.info
+- 👋 Hi, I’m @lpmurray16 (AKA Logan Murray)
+- 👀 I’m interested in growing my portfolio by building projects.
+- 🌱 I’m currently learning ReactJS, React Native and loving it.
+- 💞️ I’m looking to collaborate on something amazing!
+- 📫 How to reach me: Visit my website lmurray.info or just email me at logan@lmurray.info
