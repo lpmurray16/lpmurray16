@@ -4,4 +4,4 @@
 - 👀 I’m interested in growing my portfolio by building projects.
 - 🌱 In my free-time I am trying to learn more React and React Native.
 - 💞️ I’m looking to collaborate on something amazing!
-- 📫 How to reach me: Visit my website https://logan-murray.dev or just email me at lpmurray16@gmail.com
+- 📫 How to reach me: Visit my website https://logan-murray.dev or just email me at logan@logan-murray.dev
